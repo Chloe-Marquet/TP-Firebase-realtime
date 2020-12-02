@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394904339004",
+    "firebase_url": "https://tp-firebase-realtime.firebaseio.com",
+    "project_id": "tp-firebase-realtime",
+    "storage_bucket": "tp-firebase-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394904339004:android:eb42c3202bdcf4323eb939",
+        "android_client_info": {
+          "package_name": "com.example.tpfirebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394904339004-vhngame5fcngdgd1ufmdeslslbn0b7il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5jjTTGr5badIHoGcslfUZJEIOQZJVJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394904339004-vhngame5fcngdgd1ufmdeslslbn0b7il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
